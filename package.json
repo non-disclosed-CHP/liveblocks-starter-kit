@@ -1,18 +1,3 @@
-{
-  "name": "liveblocks-starter-kit",
-  "version": "1.0.0",
-  "description": "A real-time collaborative project built with Next.js and Liveblocks",
-  "main": "index.js",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "^13.0.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "liveblocks": "^0.10.0",
-    "dotenv": "^16.0.0"
-  }
+"dependencies": {
+  "liveblocks": "^0.9.0"
 }
